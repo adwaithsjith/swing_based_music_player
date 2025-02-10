@@ -1,6 +1,5 @@
 ### README.md for Java Swing Music Player
 
-```markdown
 # Java Swing Music Player 🎵
 
 The Java Swing Music Player is a desktop-based graphical user interface (GUI) application that allows users to play music files, manage playlists, and control playback. Built using Java Swing and Java Sound API, it offers an interactive and user-friendly experience.
